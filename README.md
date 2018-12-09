@@ -9,8 +9,8 @@ File lookup just as Linux “find” and "grep"
 4. EDT use UI
 5. Grep in JCombox
 
-![1](.\1.png)
+![1](https://raw.githubusercontent.com/yangmeiooo/File-lookup/master/1.png)
 
 
 
-![2](.\2.png)
+![2](https://raw.githubusercontent.com/yangmeiooo/File-lookup/master/2.png)
